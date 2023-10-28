@@ -112,16 +112,10 @@ class Node {
     "Honey Singh,Sonakshi Singha",
     "https://static.toiimg.com/photo/59841671.cms"
   );
-  dll.push(
-    "Do Pal",
-    3,
-    "https://pagalsong.in/uploads/systemuploads/mp3/Veer-Zaara/Do%20Pal%20-%20Veer-Zaara%20128%20Kbps.mp3",
-    "Lata Mangeshkar,Sonu Nigam",
-    "https://i.pinimg.com/736x/0c/d4/09/0cd4099bcf51111d60b831dee99cfa9d--bollywood-posters-indian-movies.jpg"
-  );
+ 
   dll.push(
     "Dard E Disco",
-    4,
+    3,
     "https://pagalworlld.com/files/download/id/7192",
     "Me",
     "https://pagalworlld.com/siteuploads/thumb/sft15/7192_4.jpg"
