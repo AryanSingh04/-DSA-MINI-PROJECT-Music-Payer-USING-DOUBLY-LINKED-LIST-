@@ -35,7 +35,16 @@ timeLine.value=0
               } else {
                 musicCurt.innerHTML=`0${cm}:${cs}`
             }
-            
+               if(timeLine.value ==Math.floor(timeLine.max)){
+                    play = false;
+                    playpause()
+                    const resultObj = dll.traverse(1);
+                    if (resultObj != 0) {
+                   setMusic(resultObj)
+                    }
+                    changePrevNextColor()
+                    musicCurt.innerHTML=`00:00`
+                }
         },1000);
     }
     else{
