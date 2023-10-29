@@ -109,7 +109,7 @@ class Node {
     "Desi Kalakaar",
     2,
     "https://pagalworld.cam/songs/indian-pop/Desi%20Kalakaar%202014/Desi%20Kalakaar%20128%20Kbps.mp3",
-    "Honey Singh,Sonakshi Singha",
+    "Honey Singh,Sonakshi Sinha",
     "https://static.toiimg.com/photo/59841671.cms"
   );
  
